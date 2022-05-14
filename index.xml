@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Younes Bensouda</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Younes Bensouda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my new personal website!</title>
+      <link>//localhost:1313/blog/emoji-support/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/blog/emoji-support/</guid>
+      <description>Welcome! Welcome to my new personal website! Here you can find all the news related to my academic, professional and personal projects. I will post articles on topics I am passionate about, around the use of data to solve business problems. Thanks for visiting!</description>
+    </item>
+    
+  </channel>
+</rss>
